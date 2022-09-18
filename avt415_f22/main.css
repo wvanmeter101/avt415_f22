@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+  font-family: 'arial', sans-serif;
+  background-color: #1EB4FA;
+}
+main {
+  width: 75vw;
+  margin: 25px auto;
+  display: flow-root;
+}
+h1 {
+  margin: 25px auto;
+  color: #1F1CCA;
+}
+h2 {
+  color: #ffffff;
+  margin: 20px auto;
+}
+h3 {
+  color: #5552E9;
+  margin: 20px auto 0px;
+}
+li {
+  color: #ffffff;
+  font-family: sans-serif;
+}
