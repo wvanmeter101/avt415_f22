@@ -1,0 +1,34 @@
+body {
+  background-color: skyblue;
+}
+
+header {
+  display: block;
+}
+
+h4 {
+  color: black;
+  width: 1000px
+}
+
+h3 {
+  width: 1000px;
+}
+
+h1 {
+  padding: 20px;
+}
+
+p {
+  color: black;
+  width: 1000px
+}
+
+div {
+  width: 1440px;
+  margin-left: 20px;
+}
+
+span {
+  color: red;
+}
